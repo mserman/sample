@@ -6,4 +6,3 @@
 * Reproducible Data Analysis
 * Statistical Inference
 * Regression Models
-* Added from New Branch
